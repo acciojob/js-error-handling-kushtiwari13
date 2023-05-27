@@ -1,4 +1,3 @@
-//your code here
 class OutOfRangeError extends Error {
   constructor() {
     super();
